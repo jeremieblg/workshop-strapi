@@ -29,6 +29,20 @@
       "relation": "manyToMany",
       "target": "plugin::users-permissions.user",
       "inversedBy": "modules"
+    },
+    "signatures": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::signature.signature",
+      "mappedBy": "module"
+    },
+    "statut": {
+      "type": "enumeration",
+      "enum": [
+        "Attente",
+        "Ouvert",
+        "Fermé"
+      ]
     }
   }
 }

@@ -68,6 +68,12 @@
       "relation": "manyToMany",
       "target": "api::module.module",
       "mappedBy": "users_permissions_users"
+    },
+    "signature": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::signature.signature",
+      "mappedBy": "user"
     }
   }
 }
