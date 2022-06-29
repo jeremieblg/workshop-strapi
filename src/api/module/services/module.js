@@ -18,9 +18,13 @@ module.exports = createCoreService('api::module.module', ({strapi})=>({
       populate: {
         signatures:{
           populate:{
-            user:true
+            user:{
+              populate:{
+                role: true
+              }
+            }
           }
-        }
+        },
       },
     });
   },
