@@ -13,7 +13,7 @@ module.exports = plugin => {
     const user = await strapi.entityService.findOne(
       'plugin::users-permissions.user',
       ctx.state.user.id,
-      { populate: ['modules', 'modules.users_permissions_users', 'modules.users_permissions_users.signatures', 'role'] }
+      { populate: ['modules', 'role'] }
     );
 
     ctx.body = sanitizeOutput(user);
