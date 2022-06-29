@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-06-29T14:47:20.425Z"
+    "x-generation-date": "2022-06-29T14:53:28.764Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -875,6 +875,12 @@
                                         }
                                       }
                                     }
+                                  },
+                                  "firstname": {
+                                    "type": "string"
+                                  },
+                                  "lastname": {
+                                    "type": "string"
                                   },
                                   "createdAt": {
                                     "type": "string",
@@ -1752,6 +1758,12 @@
                                     }
                                   }
                                 },
+                                "firstname": {
+                                  "type": "string"
+                                },
+                                "lastname": {
+                                  "type": "string"
+                                },
                                 "createdAt": {
                                   "type": "string",
                                   "format": "date-time"
@@ -2563,6 +2575,12 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "firstname": {
+                                                "type": "string"
+                                              },
+                                              "lastname": {
+                                                "type": "string"
                                               },
                                               "createdAt": {
                                                 "type": "string",
@@ -3419,6 +3437,12 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "firstname": {
+                                              "type": "string"
+                                            },
+                                            "lastname": {
+                                              "type": "string"
                                             },
                                             "createdAt": {
                                               "type": "string",
@@ -5157,6 +5181,12 @@
                                                   }
                                                 }
                                               },
+                                              "firstname": {
+                                                "type": "string"
+                                              },
+                                              "lastname": {
+                                                "type": "string"
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -5987,6 +6017,12 @@
                                                 }
                                               }
                                             },
+                                            "firstname": {
+                                              "type": "string"
+                                            },
+                                            "lastname": {
+                                              "type": "string"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -6810,6 +6846,12 @@
                                                                   }
                                                                 }
                                                               }
+                                                            },
+                                                            "firstname": {
+                                                              "type": "string"
+                                                            },
+                                                            "lastname": {
+                                                              "type": "string"
                                                             },
                                                             "createdAt": {
                                                               "type": "string",
@@ -7670,6 +7712,12 @@
                                                               }
                                                             }
                                                           },
+                                                          "firstname": {
+                                                            "type": "string"
+                                                          },
+                                                          "lastname": {
+                                                            "type": "string"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -7965,6 +8013,12 @@
                   ],
                   "example": "string or id"
                 }
+              },
+              "firstname": {
+                "type": "string"
+              },
+              "lastname": {
+                "type": "string"
               }
             }
           }
@@ -8652,6 +8706,12 @@
                                                   }
                                                 }
                                               },
+                                              "firstname": {
+                                                "type": "string"
+                                              },
+                                              "lastname": {
+                                                "type": "string"
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -8788,6 +8848,12 @@
                           }
                         }
                       }
+                    },
+                    "firstname": {
+                      "type": "string"
+                    },
+                    "lastname": {
+                      "type": "string"
                     },
                     "createdAt": {
                       "type": "string",
@@ -9541,6 +9607,12 @@
                                                 }
                                               }
                                             },
+                                            "firstname": {
+                                              "type": "string"
+                                            },
+                                            "lastname": {
+                                              "type": "string"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -9677,6 +9749,12 @@
                         }
                       }
                     }
+                  },
+                  "firstname": {
+                    "type": "string"
+                  },
+                  "lastname": {
+                    "type": "string"
                   },
                   "createdAt": {
                     "type": "string",

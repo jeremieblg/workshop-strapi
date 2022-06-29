@@ -74,6 +74,12 @@
       "relation": "oneToMany",
       "target": "api::signature.signature",
       "mappedBy": "user"
+    },
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
     }
   }
 }
