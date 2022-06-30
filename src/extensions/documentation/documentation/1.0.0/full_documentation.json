@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-06-30T07:52:13.040Z"
+    "x-generation-date": "2022-06-30T08:21:21.082Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -147,7 +147,7 @@
                   "Fermé"
                 ]
               },
-              "Comment": {
+              "comment": {
                 "type": "string"
               }
             }
@@ -809,7 +809,7 @@
                                                     "Fermé"
                                                   ]
                                                 },
-                                                "Comment": {
+                                                "comment": {
                                                   "type": "string"
                                                 },
                                                 "createdAt": {
@@ -968,7 +968,7 @@
                         "Fermé"
                       ]
                     },
-                    "Comment": {
+                    "comment": {
                       "type": "string"
                     },
                     "createdAt": {
@@ -1700,7 +1700,7 @@
                                                   "Fermé"
                                                 ]
                                               },
-                                              "Comment": {
+                                              "comment": {
                                                 "type": "string"
                                               },
                                               "createdAt": {
@@ -1859,7 +1859,7 @@
                       "Fermé"
                     ]
                   },
-                  "Comment": {
+                  "comment": {
                     "type": "string"
                   },
                   "createdAt": {
@@ -2686,7 +2686,7 @@
                                     "Fermé"
                                   ]
                                 },
-                                "Comment": {
+                                "comment": {
                                   "type": "string"
                                 },
                                 "createdAt": {
@@ -3557,7 +3557,7 @@
                                   "Fermé"
                                 ]
                               },
-                              "Comment": {
+                              "comment": {
                                 "type": "string"
                               },
                               "createdAt": {
@@ -5153,7 +5153,7 @@
                                                                 "Fermé"
                                                               ]
                                                             },
-                                                            "Comment": {
+                                                            "comment": {
                                                               "type": "string"
                                                             },
                                                             "createdAt": {
@@ -5995,7 +5995,7 @@
                                                               "Fermé"
                                                             ]
                                                           },
-                                                          "Comment": {
+                                                          "comment": {
                                                             "type": "string"
                                                           },
                                                           "createdAt": {
@@ -6831,7 +6831,7 @@
                                                                               "Fermé"
                                                                             ]
                                                                           },
-                                                                          "Comment": {
+                                                                          "comment": {
                                                                             "type": "string"
                                                                           },
                                                                           "createdAt": {
@@ -7702,7 +7702,7 @@
                                                                             "Fermé"
                                                                           ]
                                                                         },
-                                                                        "Comment": {
+                                                                        "comment": {
                                                                           "type": "string"
                                                                         },
                                                                         "createdAt": {
@@ -8702,7 +8702,7 @@
                                                                 "Fermé"
                                                               ]
                                                             },
-                                                            "Comment": {
+                                                            "comment": {
                                                               "type": "string"
                                                             },
                                                             "createdAt": {
@@ -9609,7 +9609,7 @@
                                                               "Fermé"
                                                             ]
                                                           },
-                                                          "Comment": {
+                                                          "comment": {
                                                             "type": "string"
                                                           },
                                                           "createdAt": {

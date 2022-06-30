@@ -44,7 +44,7 @@
         "Fermé"
       ]
     },
-    "Comment": {
+    "comment": {
       "type": "text"
     }
   }
