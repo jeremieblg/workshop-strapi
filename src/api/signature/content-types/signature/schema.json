@@ -31,6 +31,9 @@
       "relation": "manyToOne",
       "target": "plugin::users-permissions.user",
       "inversedBy": "signatures"
+    },
+    "comment": {
+      "type": "text"
     }
   }
 }

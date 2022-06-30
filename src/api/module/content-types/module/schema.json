@@ -43,6 +43,9 @@
         "Ouvert",
         "Fermé"
       ]
+    },
+    "Comment": {
+      "type": "text"
     }
   }
 }
